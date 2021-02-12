@@ -12,7 +12,7 @@
 #friends-display-link i {
   color: rgba(0, 0, 0, 0.3);
 }
-.friends-screen {
+.main-screen {
   overflow-y: scroll;
   /* overflow: scroll; */
   width: 100%;

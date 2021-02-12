@@ -1,0 +1,4 @@
+.chats-screen {
+  height: calc(100vh - 145px - 75px);
+  margin-top: 145px;
+}
