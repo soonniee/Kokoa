@@ -90,7 +90,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 5px 20px;
-  transition: all 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
 }
 .reply .reply__column:first-child {
   width: 10%;
@@ -110,7 +110,7 @@
   padding: 12px;
   border: var(--main-border);
   border-radius: 20px;
-  transition: all 0.5s ease-in-out;
+  transition: transform 0.5s ease-in-out;
 }
 .reply__column:last-child > i,
 .reply__column:last-child button {
